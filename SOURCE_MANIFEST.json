@@ -1,0 +1,109 @@
+{
+  "source_files": [
+    {
+      "path": "vig_pytorch/two_branch.py",
+      "source_sha256": "1007eac8105319de233c43acdddaeb61a47d177c358f40d9ac58a9823a9f0f49"
+    },
+    {
+      "path": "vig_pytorch/vig.py",
+      "source_sha256": "f10006fc0cbea0b0e9af3259c705a93954191a1ff9b2ce8584e2700f5e3b0746"
+    },
+    {
+      "path": "vig_pytorch/vit_backbone.py",
+      "source_sha256": "e3b4a68c23f68ede476ff132ab5ba956ead229a0f881d864be57122a8b0abeda"
+    },
+    {
+      "path": "vig_pytorch/backbone_adapters.py",
+      "source_sha256": "e8b5150c4014d7ed1ea22f70e1dd153d035fd3f4fddefbe1df59c25f77e3b2ed"
+    },
+    {
+      "path": "vig_pytorch/tsne.py",
+      "source_sha256": "ef7b6999782361d0af7bb678bb1e5182ea3744b4413391fa875cd2a41354a3bc"
+    },
+    {
+      "path": "vig_pytorch/audit_panel_alignment.py",
+      "source_sha256": "43958e6b49d897f326ff64e73cbed0bf057e17c06533b5b57d3dededf8111e76"
+    },
+    {
+      "path": "vig_pytorch/network/__init__.py",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "vig_pytorch/network/global_reasoning_unit.py",
+      "source_sha256": "fd847b3d06783272e981dc62c7842e38a3e4db49e5e9f6745e8456abcc754e8d"
+    },
+    {
+      "path": "vig_pytorch/License.txt",
+      "source_sha256": "1ee267680bc3e403a4027aac7bfec7ae3a2b730ad0e19be1208130bf828c049c"
+    },
+    {
+      "path": "vig_pytorch/THIRD PARTY OPEN SOURCE SOFTWARE NOTICE.txt",
+      "source_sha256": "300eb6e06ebde64730e6efcadf1e536a84f6819fabcdbcd9b6f1cd05b3b6a393"
+    },
+    {
+      "path": "vig_pytorch/nonlocal_relation_analysis/evaluate_patch_permutation.py",
+      "source_sha256": "d1bd34b4153ab81db114714645120a53cfdebbce721e7664fa1ac258fce11f32"
+    },
+    {
+      "path": "vig_pytorch/nonlocal_relation_analysis/plot_smoothing_bars.py",
+      "source_sha256": "e48f85f6ff870106b13ae7e1d7f307a8ce532548f2ac92f0171834d338f15814"
+    },
+    {
+      "path": "third_party/Conformer/conformer.py",
+      "source_sha256": "c5f1d2ac78db97d73eff0331279dadd0ab3157a935dc38b3dbafd32de32604b0"
+    },
+    {
+      "path": "third_party/Conformer/LICENSE",
+      "source_sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    {
+      "path": "vig_pytorch/gcn_lib/pos_embed.py",
+      "source_sha256": "8b22fa7d2971fe8401e7791f18f7ed6b070a7f7732fe92877f6f620accaa5b54"
+    },
+    {
+      "path": "vig_pytorch/gcn_lib/torch_edge.py",
+      "source_sha256": "fe6387a0723b667c7738225f8749d24b3d855299467abfc7e3ef9d449577dcbe"
+    },
+    {
+      "path": "vig_pytorch/gcn_lib/torch_nn.py",
+      "source_sha256": "eefb7bc6c73b1b34213e9ba08cfb20f7a4e4fdb6cbadcfe0e79bbb741a6c8d09"
+    },
+    {
+      "path": "vig_pytorch/gcn_lib/torch_vertex.py",
+      "source_sha256": "692cd51407bb94d5dfd353888ea2b41c0c619f69faa05ed2030f0bd1b9059ec8"
+    },
+    {
+      "path": "vig_pytorch/gcn_lib/__init__.py",
+      "source_sha256": "1ba4f5cde0abafd34a33b5f9cd1820a2a1de333a016275c41673bb743f53c898"
+    },
+    {
+      "path": "vig_pytorch/nonlocal_relation_analysis/patch_mean_smoothing_final_models_full/patch_mean_smoothing_common_clean_correct.csv",
+      "source_sha256": "abfc1cae81a7b036c8a4058b30a5c20d2f892f5adabb249743e43726cadf1a09"
+    },
+    {
+      "path": "vig_pytorch/nonlocal_relation_analysis/patch_mean_smoothing_final_models_full/patch_mean_smoothing_ours_pairwise.csv",
+      "source_sha256": "9db0f5307ca580a092186e73ed5a924d56c46ff1dc4370e16f34199bcde4ba79"
+    },
+    {
+      "path": "vig_pytorch/nonlocal_relation_analysis/patch_mean_smoothing_final_models_full/patch_mean_smoothing_retention_contrasts.csv",
+      "source_sha256": "a882c9f758c173e9dab082881755e8e37f82e1f0c1d9d0cca42127bd71a26ae0"
+    },
+    {
+      "path": "vig_pytorch/nonlocal_relation_analysis/patch_mean_smoothing_final_models_full/patch_mean_smoothing_summary.csv",
+      "source_sha256": "cff796a0476dc8dbe39c32668e5d0b8018594dae33695126faedd2583c6c343d"
+    },
+    {
+      "path": "vig_pytorch/nonlocal_relation_analysis/patch_mean_smoothing_final_models_full/patch_mean_smoothing_metadata.json",
+      "source_sha256": "1f97f4097af9aac713198d443310d55598e56b7f34b3b80ad055462945261603"
+    },
+    {
+      "path": "vig_pytorch/nonlocal_relation_analysis/smoothing_bar_chart/smoothing_bars.pdf",
+      "source_sha256": "512ea06106be2f7286ceabd0e14850debc4d32d4aae2817e3763bdb7730efe81"
+    }
+  ],
+  "release_edits": [
+    "Portable alignment-checker import in plot_smoothing_bars.py",
+    "New documentation, reference launcher and manuscript-transcribed result tables",
+    "Lossless gzip compression of per-image CSV"
+  ]
+}

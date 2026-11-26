@@ -1,0 +1,10 @@
+{
+  "python_syntax": "passed",
+  "reference_launcher_dry_run": "passed",
+  "figure3_reconstruction_from_released_csv": "passed",
+  "credential_pattern_scan": "passed (not a guarantee against every possible secret format)",
+  "paired_plot_rows": 24,
+  "per_image_prediction_rows": 350000,
+  "training_forward_and_checkpoint_loading": "not performed: host PyTorch OpenMP initialization conflict; torchvision and timm unavailable",
+  "full_training_reproduction": "not performed"
+}

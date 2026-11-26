@@ -1,0 +1,7 @@
+graph_mode,align_weight,reported_top1_percent,provenance
+off,0,78.31,manuscript table
+off,0.2,78.16,manuscript table
+pull-close,0,78.01,manuscript table
+pull-close,0.2,78.51,manuscript table
+push-apart,0,77.65,manuscript table
+push-apart,0.2,78.75,manuscript table

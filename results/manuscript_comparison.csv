@@ -1,0 +1,11 @@
+model,reported_top1_percent,provenance
+ViG-S,76.64,manuscript table
+ViT,67.56,manuscript table
+Swin-Tiny,75.25,manuscript table
+ResNet-18,76.97,manuscript table
+ResNet-50,76.84,manuscript table
+ConvNeXt-Tiny,74.81,manuscript table
+Conformer-Tiny,73.10,manuscript table
+ResNet-18 + ViT,77.53,manuscript table
+GloRe,76.96,manuscript table
+Ours,78.75,manuscript table

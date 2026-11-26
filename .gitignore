@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+data/
+checkpoints/
+*.pt
+*.pth
+*.pth.*
+*.whl
+.mplconfig/
